@@ -2,4 +2,6 @@
 layout: default
 title: Foo
 ---
-o hai!
+{% highlight javascript %}
+var x = "o hai!";
+{% highlight %}
