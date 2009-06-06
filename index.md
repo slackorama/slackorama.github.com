@@ -1,9 +1,5 @@
-<html>
-<body>
 {% highlight javascript %}
 dojo.forEach( [1,2,3], function() {
   console.log("Hello World");
 });
 {% highlight %}
-</body>
-</html>
