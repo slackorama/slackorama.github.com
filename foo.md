@@ -4,4 +4,4 @@ title: Foo
 ---
 {% highlight javascript %}
 var x = "o hai!";
-{% highlight %}
+{% endhighlight %}
